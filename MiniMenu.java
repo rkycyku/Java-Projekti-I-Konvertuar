@@ -1260,8 +1260,8 @@ public class MiniMenu {
                 while("po".equals(filloinfo)){
                     System.out.println("\nKy është projekti im final i kursit dy mujor në Bonevet rreth Python, por eshte konvertuar ne Java.");
                     Thread.sleep(1000);
-                    System.out.println("\nProjekti përmban një Main Menu (Menyn Kryesore) i cili përbëhet nga 3 Lojra & 2 Programe,"
-                                        + "\nProgrami në Python përmban 4 lojra & 3 programe!");
+                    System.out.println("\nProjekti përmban një Main Menu (Menyn Kryesore) i cili përbëhet nga 4 Lojra & 2 Programe,"
+                                        + "\nProgrami në Python përmban 5 lojra & 3 programe!");
                     Thread.sleep(1500);
                     System.out.println("\nKy programë është realizuar në vitin 2019 në Python dhe është konvertuar në Java në vitin 2022!");
                     Thread.sleep(1000);
